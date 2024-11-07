@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://pcaue:9doN1ZEmZIAa1WUo@casamento.j6jww.mongodb.net/?retryWrites=true&w=majority&appName=CASAMENTO
-      database: test
